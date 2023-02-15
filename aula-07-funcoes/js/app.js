@@ -18,6 +18,6 @@ function welcomeUser (userName){
   console.log(`Olá ${userName}!`)
 }
 
-console.log(welcomeUser("Romulo"));
-console.log(welcomeUser("Guilherme"));
-console.log(welcomeUser("Rosa"));
+welcomeUser("Romulo");
+welcomeUser("Guilherme");
+welcomeUser("Rosa");
